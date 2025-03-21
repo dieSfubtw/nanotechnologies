@@ -274,7 +274,9 @@ span{
         height: 60vw;
     }
 .title2{
-    margin-bottom: 10vw;
+    height: 30vw;
+    margin-bottom: 5vw;
+    margin-top: 5vw;
 }
 .footer{
     margin-top: 20vw;
