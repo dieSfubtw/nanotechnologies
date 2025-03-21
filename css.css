@@ -15,7 +15,7 @@ font-family: "Montserrat Alternates", serif;
 }
 .textHeader{
     color: rgb(255, 255, 255);
-    font-size: 2vw;
+    font-size: 3vw;
     width: 100%;
     text-align: center;
 min-height: 4vw;
@@ -274,7 +274,19 @@ span{
         height: 60vw;
     }
 .title2{
-    margin-bottom: 20vw;
+    margin-bottom: 10vw;
+}
+.footer{
+    margin-top: 5vw;
+}
+.textHeader{
+    font-size: 4vw;
+}
+.block_1{
+    margin-top: 4vw;
+}
+.Group2{
+    margin-top: 4vw;
 }
 }
 img{
