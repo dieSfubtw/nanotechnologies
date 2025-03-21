@@ -254,6 +254,29 @@ span{
     }
 
 }
+@media(max-width:480px){
+    .imgIntoGroup3{
+        height: 60vw;
+    }
+    .imgIntoGroup4{
+        height: 60vw;
+    }
+    .imgIntoGroup5{
+        height: 60vw;
+    } 
+    .imgGroup3{
+        height: 60vw;
+    }
+    .imgGroup4{
+        height: 60vw;
+    }
+    .imgGroup5{
+        height: 60vw;
+    }
+.title2{
+    margin-bottom: 20vw;
+}
+}
 img{
     width:5vw;
     height:5vw;
